@@ -10,7 +10,7 @@ from prediction import get_prediction
 
 st.set_page_config(page_title='DMSP Particle Precipitate Flux Prediction', page_icon="🌎", layout="wide", initial_sidebar_state='expanded')
 
-NN_model = load_model('NN_model/keras_NN_model.h5')
+NN_model = load_model('keras_NN_model.h5')
 
 # creating option list for dropdown menu
 
