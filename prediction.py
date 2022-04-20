@@ -6,7 +6,7 @@ from keras.models import load_model
 
 
 
-NN_model = load_model('NN_model/keras_NN_model.h5')
+NN_model = load_model('keras_NN_model.h5')
 
 
 
