@@ -8,7 +8,11 @@
  
  #### Problem Statement:- 
      
-     The target feature is ELE_TOTAL_ENERGY_FLUX which is a continuous variable. The task is to predict this variable based on the other 154 features step-by-step by going through each day's task. The scoring metric is RMSE or R2 score.
+ The target feature is ELE_TOTAL_ENERGY_FLUX which is a continuous variable. 
+      
+ The task is to predict this variable based on the other 154 features step-by-step by going through each day's task. 
+  
+ The scoring metric is RMSE or R2 score.
 
 
 #### Model Deployment (streamlit cloud) :-https://share.streamlit.io/suwarna93/-dmsp-particle-precipitate-flux-prediction-mesoscale-/main/app.py
